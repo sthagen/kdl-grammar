@@ -1,10 +1,10 @@
- # Upstream Extract
+# Upstream Extract
  
- Bottom of the page at https://raw.githubusercontent.com/kdl-org/kdl/0cdda0b711aa8ed52c1ed870cc6ec81cbec89c7b/SPEC.md from repository https://github.com/kdl-org/kdl
+Bottom of the page at https://raw.githubusercontent.com/kdl-org/kdl/0cdda0b711aa8ed52c1ed870cc6ec81cbec89c7b/SPEC.md from repository https://github.com/kdl-org/kdl
  
- ## Final Grammar Part
+## Final Grammar Part
  
- ### Whitespace
+### Whitespace
 
 The following characters should be treated as non-[Newline](#newline) [white
 space](https://www.unicode.org/Public/UCD/latest/ucd/PropList.txt):
